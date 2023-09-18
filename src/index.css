@@ -1,0 +1,130 @@
+html, body{
+    margin:0;
+}
+
+.root{
+    width: 100%;
+    height: 100%;
+}
+
+.root-root{
+    width: 100%;
+    height: 100%;
+}
+
+.Nav-Travel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    background-color: #F55A5A;
+}
+
+.Nav-Travel img{
+    width: 30px;
+    height: 30px;
+    display: inline;
+}
+
+.Nav-Travel h1{
+    margin-left:10px;
+    display: inline;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+}
+
+.Div-Principal{
+    margin-left:700px;
+}
+
+
+.Div-Img img{
+    width: 250px;
+    height: 340px;
+    border-radius:5px;
+}
+
+.Div-Total{
+    display:flex;
+    margin-top:50px;
+    position: relative;
+}
+
+.Div-Texto{
+    margin-left:30px;
+    margin-top:25px;
+    position: relative;
+}
+
+.Div-Texto img{
+    width: 18px;
+    height: auto;
+    margin-right: 8px;
+}
+
+.location{
+    display:inline;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A;
+    margin:0;
+    margin-top:2px;
+}
+
+.Div-Texto a{
+    position: absolute;
+    margin-left: 80px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #918E9B;
+    margin-top:3px;
+}
+
+.Title{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    color: #2B283A;
+}
+
+.Div-Texto h2{
+    position: absolute;
+    margin-top:90px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+.Div-Texto p{
+    width: 326px;
+    height: 45px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    margin-top:140px;
+    color: #2B283A;
+
+}
